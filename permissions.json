@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-stpharm",
+  "private_key_id": "a082d0d846fc126555b022aae1c9e1af651b4883",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5ACKZQaKPULIY\nHRFHgK9Xb1rNBCz9J4rQ7H0tKM73eJutNI9aCfhtI7ipF8tDM9KIuCn7ZfYv4pae\nmINMdMHdnRl0rlt0H6cy1Ge4Bwk02SVjBdvD6EuqOWsWFgmDAwV87mL/YP6bOATD\nv6tGtiL2dq/dlj8ME8uu8PXH74LvWSnxrXi4dgyfx75YG8wo+Ihql+C/IAfcwHbw\n2TcmnfxQGb/7BNOm7ntW220d5oqBcDg68RpPMj0y8Ba8P+o5fnIisqSGb9nlFF+e\n4PaVpUOGUIrcReSUU8nx03Ky6eH42r22Tg5yukclR2XcRtDJ93giXXV7FCuk72ah\nmo0Ri27lAgMBAAECggEAHTU7QS0OqEfaRlpYfwx/InPPRy0QmUtj7EZaIQYfXwzo\nrzjsJRAL69dG8VNzYQHOjI1e+3UGoFrK4vE7UZfhf8as3TIl+DiDIlBMq85YksJx\n16d2IgEL6S01jgAeslOIy0er05wRtpnqjqk1Nm3NKVJlw7tT6uk5MD6U32MeLgGG\nGO35UfG8ftvHRh+rnTlg1Sjctk/bMR5AnNnsNatP8oMKVllcMBlsI6GeiDxex95f\n97diQ93JfS6nGMj8GsDdOeWCPjehAucSGWtnF5pxIq++S/pp6gB4O8Jkrzl8qKBj\nw8kqH7n1TtTf3jar87UrG8tRhlckoFyDV+XsgqhdJQKBgQDZ437vKWelLrAkswb2\niPDwiCVlcYJHOLZBVowtRgJjUDgAR67ikgOPCMi4C9RZlZO0gBSZ80KmcsttQFry\n8gDUgAbim0EIaMKAs1NdgLGJ7hsfF+bjH2xlL0isEctrCGrzAI42RtXAtuw7LUFG\nF2MHmMY3ampZWcDSOHtLY2VHFwKBgQDZW/3wXJUPnpwWZM3ukS9Z99TVCUQmszIG\naw5kRJ/pgzwPFhYexJEntTnrImDLWggDncgKaQwuZEyjKf+EKeaR0J9VdXdUdC2G\niA4kWfewqOMuRERWSO3FZPqlVjjqh08ZQoFf2zvDQDVxhC5JcecUpghtQWmLP5l4\nXk2vqp03YwKBgA8uMGvNQLFbfV4xMuz+QXsgoSpeLCt2IgyPURjeZdAxiJVMaTzT\n23edrw5TlKnhJ/dNbSIEtsIOAWpNL4j5n2EuwkwLcQ567gI1fDtpefUYJ7+U1LtC\nNzUdhDyoyLleTsU7Zq0VZlMU64R79K5DdtzSogy+V0Z+YFbFJKHt/OJlAoGBANU1\n1YyXZGhj7zxQOWjQ5Z/c6NroMf+8O0/sZ7uXTT1jy+AIjD42FyTaMiwiFsyiTcYu\nWXFMxfQj0sEii0/7Qf66o/DSPvGK3LVgdG7YCY0yvVY/BMGW3BWLDgps33u+qqpe\ngEWk6aSHMWVegYDtx/yLOSziw0MiacqWxqGQPJN9AoGAILr1RHIjqV6U5yInPC9A\nFu0Z11ipspvy39YX8viNzdH7NgcSCzQVdfF07mhyORkzELoEafFWfLfwEG29Ly5W\nCafwh7NWTs6atxMniHuIxtIzyG4d0rY7rCA34c5WPux17tUqJGYgoIIUCBDRd19l\nVuIqwvn3ydrw9cf9sCbqjPM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ofr17@api-stpharm.iam.gserviceaccount.com",
+  "client_id": "114922703734602226977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ofr17%40api-stpharm.iam.gserviceaccount.com"
+}
