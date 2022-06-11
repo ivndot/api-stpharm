@@ -97,7 +97,7 @@ router.put("/api/stock/:medicineID", async (req, res) => {
 
     // validate if current units are enough to substract
     if ((await getCurrentUnits(userID, medicineID)) < unitsToSubstract) {
-      res.status(500).json(new RoutesError(500, "The specified units are more than the actual in stock"));
+      res.status(200).json(new RoutesError(500, "The specified units are more than the actual in stock"));
       return;
     }
 
